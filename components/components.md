@@ -219,6 +219,7 @@ Lay_U(email_notify_stream, email_notify_srv_db)
 |Event Management|Управление конференциями, регистрациями на конференции|
 |Lecture Management|Управление докладами, рецензирование, избранным, подпиской на доклады, статистикой|
 |Advert Management|Управление рекламными баннерами, ссылками, статистикой|
+|Notification Management|Отправка пользовательских уведомлений|
 |Schedule Management|Компилятор расписания докладов, управление персональным расписанием, генерация уведомлений|
 |Telegram Notification Service|Отправка уведомлений пользователям в Telegram|
 |Email Notification Service|Отправка уведомлений пользователям по Email|
