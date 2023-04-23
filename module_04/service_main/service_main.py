@@ -54,7 +54,18 @@ pass
 # Start FastAPI
 app = FastAPI()
 
-@app.get("/presentationsAndAuthor/{title}")
+@app.get("/presentationsAndAuthor/{title}",
+responses={
+        404: {"description": "No presentations for this title"},
+        200: {
+            "description": "Item requested by ID",
+            "content": {
+                "application/json": {
+                    "example": {"title":"First Presentation","last_name":"Moore","email":"Liam_Moore4478@iaart.store","birth_date":"1981-11-27 13:44:56Z","date":"23.02.2023"}
+                }
+            },
+        },
+    })
 async def read_presentation(title: str):
     #get presentation
     responsePresentation = requests.get("http://service_presentation:8082/presentations/"+title)
