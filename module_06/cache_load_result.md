@@ -1,8 +1,8 @@
 # Результат нагрузочного тестирования сервиса /author/
 
 ## Среда выполнения
-CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.80 GHz
-RAM: 32,0 ГБ
+* CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.80 GHz
+* RAM: 32,0 ГБ
 
 
 ## Сводная таблица
