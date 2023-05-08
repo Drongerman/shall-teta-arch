@@ -4,21 +4,8 @@
 CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.80 GHz
 RAM: 32,0 ГБ
 
-## Без кеширования
-wrk -d 60 -t 1 -c 1 --latency -s ./get.lua http://localhost:8081/
 
-wrk -d 60 -t 10 -c 10 --latency -s ./get.lua http://localhost:8081/
-
-wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8081/
-
-## С кешированием
-wrk -d 60 -t 1 -c 1 --latency -s ./get.lua http://localhost:8082/
-
-wrk -d 60 -t 10 -c 10 --latency -s ./get.lua http://localhost:8082/
-
-wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8082/
-
-
+## Сводная таблица
 | Result |Test 1|Test 1 (cache)|Test 2|Test 2 (cache)|Test 3|Test 3 (cache)|
 |:-------|:------------|:------------|:------------|:------------|:------------|:------------|
 | Duration (sec) |60|60|60|60|60|60|
@@ -41,8 +28,105 @@ wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8082/
 | Requests/sec |148.64|381.52|145.17|519.16|0.60|0.67|
 | Transfer/sec |42.24 Kb|107.30|42.70 Kb|151.75 Kb|178.54 B|198.40 B|
 
-
 **Выводы:**
 * При увеличении числа потоков и соединений в 10 раз повысились задержки в 5-10 раз, при этом количество запросов в секунду практически не изменилось, а при повышении еще в 5 раз вовсе упало до 0,6 запросов в секунду (видимо в связи с недостатком количества ядер процессора)
 * В тестах 1 и 2, добавление кэширование позволило снизить время задержки практически в 3 раза, а также увеличить число запросов/пропускную способность также в 3 раза
 * В случае теста 3, добавление кэширования практически не дало результата, даже заметно небольшое возрастание задержек, однако общее число запросов в минуту незначительно выросло
+
+
+## Лог исполнения
+## Без кеширования
+<pre>
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 1 -c 1 --latency -s ./get.lua http://localhost:8081/
+Running 1m test @ http://localhost:8081/
+  1 threads and 1 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     6.85ms    3.07ms  42.59ms   89.56%
+    Req/Sec   149.22     30.48   212.00     60.77%
+  Latency Distribution
+     50%    6.02ms
+     75%    7.47ms
+     90%   10.00ms
+     99%   18.79ms
+  8931 requests in 1.00m, 2.48MB read
+Requests/sec:    148.64
+Transfer/sec:     42.24KB
+
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 10 -c 10 --latency -s ./get.lua http://localhost:8081/
+Running 1m test @ http://localhost:8081/
+  10 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    69.01ms   20.20ms 194.30ms   80.71%
+    Req/Sec    14.67      5.22    40.00     48.46%
+  Latency Distribution
+     50%   61.92ms
+     75%   77.51ms
+     90%   96.84ms
+     99%  139.16ms
+  8722 requests in 1.00m, 2.51MB read
+Requests/sec:    145.17
+Transfer/sec:     42.70KB
+
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8081/
+Running 1m test @ http://localhost:8081/
+  50 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   171.04ms  136.08ms 356.78ms   47.22%
+    Req/Sec     7.55      6.92    30.00     87.10%
+  Latency Distribution
+     50%  113.25ms
+     75%  332.26ms
+     90%  342.89ms
+     99%  356.78ms
+  36 requests in 1.00m, 10.48KB read
+Requests/sec:      0.60
+Transfer/sec:     178.54B
+</pre>
+
+## С кешированием
+<pre>
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 1 -c 1 --latency -s ./get.lua http://localhost:8082/
+Running 1m test @ http://localhost:8082/
+  1 threads and 1 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.91ms    2.99ms  74.08ms   95.60%
+    Req/Sec   383.38     76.05   490.00     71.95%
+  Latency Distribution
+     50%    2.21ms
+     75%    2.97ms
+     90%    4.02ms
+     99%   14.23ms
+  22892 requests in 1.00m, 6.29MB read
+Requests/sec:    381.52
+Transfer/sec:    107.30KB
+
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 10 -c 10 --latency -s ./get.lua http://localhost:8082/
+Running 1m test @ http://localhost:8082/
+  10 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    19.59ms    7.40ms 115.74ms   89.55%
+    Req/Sec    52.01     12.28   130.00     80.00%
+  Latency Distribution
+     50%   17.50ms
+     75%   20.17ms
+     90%   26.38ms
+     99%   51.06ms
+  31201 requests in 1.00m, 8.91MB read
+Requests/sec:    519.16
+Transfer/sec:    151.75KB
+
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8082/
+Running 1m test @ http://localhost:8082/
+  50 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   255.51ms  175.36ms 453.96ms   55.00%
+    Req/Sec     5.77      7.10    30.00     88.57%
+  Latency Distribution
+     50%  366.42ms
+     75%  401.25ms
+     90%  441.07ms
+     99%  453.96ms
+  40 requests in 1.00m, 11.64KB read
+Requests/sec:      0.67
+Transfer/sec:     198.40B
+</pre>
