@@ -14,7 +14,9 @@ DB_USER = os.getenv('DB_USER')
 DB_SCHEME = os.getenv('DB_SCHEME')
 DB_PASSWORD = os.getenv('DB_PASSWORD')
 
-engine = create_engine("mysql+pymysql://"+DB_USER+":"+DB_PASSWORD+"@"+DB_HOST+":"+DB_PORT+"/"+DB_SCHEME, echo = True)
+engine = create_engine("mysql+pymysql://"+DB_USER+":"+DB_PASSWORD+"@"+DB_HOST+":"+DB_PORT+"/"+DB_SCHEME, echo = True, 
+pool_size=25, max_overflow=25)
+
 conn = engine.connect() 
 
 Base = declarative_base()

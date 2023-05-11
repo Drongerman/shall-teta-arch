@@ -132,3 +132,40 @@ Running 1m test @ http://localhost:8082/
 Requests/sec:      0.67
 Transfer/sec:     198.40B
 </pre>
+
+# После увеличения числа соединений в пуле до 50
+
+## Без кэша
+<pre>
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8081/
+Running 1m test @ http://localhost:8081/
+  50 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   322.25ms   81.52ms 755.58ms   70.28%
+    Req/Sec     3.02      1.15    10.00     74.73%
+  Latency Distribution
+     50%  304.39ms
+     75%  362.26ms
+     90%  444.71ms
+     99%  560.44ms
+  9312 requests in 1.00m, 2.65MB read
+Requests/sec:    154.94
+Transfer/sec:     45.20KB
+</pre>
+
+## С кэшем
+<pre>
+shall@0411NBB01479NWV:/mnt/c/Users/asshalunov/Documents/GitHub/shall-teta-arch/module_06$ wrk -d 60 -t 50 -c 50 --latency -s ./get.lua http://localhost:8082/
+Running 1m test @ http://localhost:8082/
+  50 threads and 50 connections  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   127.15ms   46.59ms 755.88ms   89.55%
+    Req/Sec     8.78      2.58    20.00     74.30%
+  Latency Distribution
+     50%  116.57ms
+     75%  139.08ms
+     90%  170.92ms
+     99%  280.90ms
+  23951 requests in 1.00m, 6.83MB read
+Requests/sec:    398.52
+Transfer/sec:    116.45KB
+</pre>
