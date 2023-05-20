@@ -19,6 +19,26 @@ db.collection.aggregate([
   { $group: { _id: null, avg: { $avg: "$field" }, max: { $max: "$field" }, min: { $min: "$field" } } }
 </pre>
 
+Пример 4. Операция count:
+<pre>
+db.collection.count()
+</pre>
+
+Пример 5. Операция distinct:
+<pre>
+db.collection.distinct("field")
+</pre>
+
+Пример 6. Операция count с условием:
+<pre>
+db.collection.count({ field: { $gt: 10 } })
+</pre>
+
+Пример 7. Операция distinct с условием:
+<pre>
+db.collection.distinct("field", { field: { $gt: 10 } })
+</pre>
+
 ## 2. Text search:
 Пример 1: Поиск документов, содержащих определенное ключевое слово или фразу:
 <pre>
@@ -34,6 +54,7 @@ db.collection.find({ $text: { $search: "keyword1 keyword2" } })
 </pre>
 
 ## 3. MapReduce:
+
 Пример 1: Подсчет общего количества документов в коллекции:
 <pre>
 db.collection.mapReduce(
@@ -64,6 +85,71 @@ db.collection.mapReduce(
   },
   { out: "stats" }
 )
+</pre>
+
+
+
+## ! Начиная с MongoDB 5.0, map-reduce помечен как deprecated, вместо него предлагается использовать Aggregation pipelines:
+
+Пример 1. Группировка данных по полю и подсчет количества записей в каждой группе:
+<pre>
+db.collection.aggregate([
+   { $group: { _id: "$field", count: { $sum: 1 } } }
+])
+</pre>
+
+Пример 2. Фильтрация данных по условию и сортировка по полю:
+<pre>
+db.collection.aggregate([
+   { $match: { field: { $gt: 10 } } },
+   { $sort: { field: 1 } }
+])
+</pre>
+
+Пример 3. Объединение данных из нескольких коллекций:
+<pre>
+db.collection.aggregate([
+   { $lookup:
+      {
+        from: "other_collection",
+        localField: "field",
+        foreignField: "field",
+        as: "result"
+      }
+   }
+])
+</pre>
+
+Пример 4. Вычисление статистических показателей по группам данных:
+<pre>
+db.collection.aggregate([
+   { $group:
+      {
+        _id: "$field",
+        avgValue: { $avg: "$value" },
+        minValue: { $min: "$value" },
+        maxValue: { $max: "$value" }
+      }
+   }
+])
+</pre>
+
+Пример 5. Разбиение данных на несколько групп и вычисление статистических показателей для каждой группы:
+<pre>
+db.collection.aggregate([
+   { $bucket:
+      {
+        groupBy: "$field",
+        boundaries: [ 0, 10, 20, 30 ],
+        default: "Other",
+        output:
+        {
+          count: { $sum: 1 },
+          avgValue: { $avg: "$value" }
+        }
+      }
+   }
+])
 </pre>
 
 ## 4. Geospatial queries:
