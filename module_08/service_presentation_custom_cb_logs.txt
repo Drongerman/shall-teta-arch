@@ -1,0 +1,437 @@
+2023-05-20 10:01:22 INFO:     Will watch for changes in these directories: ['/']
+2023-05-20 10:01:22 INFO:     Uvicorn running on http://0.0.0.0:8083 (Press CTRL+C to quit)
+2023-05-20 10:01:22 INFO:     Started reloader process [1] using WatchFiles
+2023-05-20 10:01:23 INFO:     Started server process [8]
+2023-05-20 10:01:23 INFO:     Waiting for application startup.
+2023-05-20 10:01:23 INFO:     Application startup complete.
+2023-05-20 10:01:24 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:24 WARNING:root:
+2023-05-20 10:01:25 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:25 WARNING:root:
+2023-05-20 10:01:26 INFO:root:Request successful
+2023-05-20 10:01:26 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:26 WARNING:root:
+2023-05-20 10:01:27 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:27 WARNING:root:
+2023-05-20 10:01:28 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:28 WARNING:root:
+2023-05-20 10:01:29 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:29 WARNING:root:
+2023-05-20 10:01:30 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:30 WARNING:root:
+2023-05-20 10:01:31 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:26 Moore
+2023-05-20 10:01:26 INFO:     172.19.0.1:39024 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:33 Moore
+2023-05-20 10:01:33 INFO:     172.19.0.1:39030 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:35 Moore
+2023-05-20 10:01:35 INFO:     172.19.0.1:39036 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:37 Moore
+2023-05-20 10:01:37 INFO:     172.19.0.1:39042 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:39 Moore
+2023-05-20 10:01:39 INFO:     172.19.0.1:39048 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:40 Moore
+2023-05-20 10:01:40 INFO:     172.19.0.1:39054 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:41 Moore
+2023-05-20 10:01:41 INFO:     172.19.0.1:39060 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:01:31 WARNING:root:
+2023-05-20 10:01:32 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:32 WARNING:root:
+2023-05-20 10:01:33 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:33 WARNING:root:
+2023-05-20 10:01:33 INFO:root:Request successful
+2023-05-20 10:01:34 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:34 WARNING:root:
+2023-05-20 10:01:35 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:35 WARNING:root:
+2023-05-20 10:01:35 INFO:root:Request successful
+2023-05-20 10:01:36 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:36 WARNING:root:
+2023-05-20 10:01:37 INFO:root:Request successful
+2023-05-20 10:01:37 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:37 WARNING:root:
+2023-05-20 10:01:38 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:38 WARNING:root:
+2023-05-20 10:01:39 INFO:root:Request successful
+2023-05-20 10:01:39 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:39 WARNING:root:
+2023-05-20 10:01:40 INFO:root:Request successful
+2023-05-20 10:01:40 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:40 WARNING:root:
+2023-05-20 10:01:41 INFO:root:Request successful
+2023-05-20 10:01:41 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:41 WARNING:root:
+2023-05-20 10:01:42 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:42 WARNING:root:
+2023-05-20 10:01:43 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:43 WARNING:root:
+2023-05-20 10:01:44 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:44 WARNING:root:
+2023-05-20 10:01:45 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:45 WARNING:root:
+2023-05-20 10:01:46 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:46 WARNING:root:
+2023-05-20 10:01:47 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:47 WARNING:root:
+2023-05-20 10:01:48 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:48 WARNING:root:
+2023-05-20 10:01:49 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:49 WARNING:root:
+2023-05-20 10:01:50 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:50 WARNING:root:
+2023-05-20 10:01:51 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:01:51 WARNING:root:
+2023-05-20 10:01:52 WARNING:root:Request failed
+2023-05-20 10:01:52 WARNING:root:Retrying request (1/1)
+2023-05-20 10:01:52 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:52 WARNING:root:
+2023-05-20 10:01:53 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:53 WARNING:root:
+2023-05-20 10:01:54 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:54 WARNING:root:
+2023-05-20 10:01:55 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:55 WARNING:root:
+2023-05-20 10:01:56 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:56 WARNING:root:
+2023-05-20 10:01:57 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:57 WARNING:root:
+2023-05-20 10:01:58 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:58 WARNING:root:
+2023-05-20 10:01:59 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:01:59 WARNING:root:
+2023-05-20 10:02:00 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:02:00 WARNING:root:
+2023-05-20 10:02:01 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 1
+2023-05-20 10:02:01 WARNING:root:
+2023-05-20 10:02:02 WARNING:root:Request failed
+2023-05-20 10:02:02 WARNING:root:Retrying request (2/1)
+2023-05-20 10:02:02 --- Logging error ---
+2023-05-20 10:02:02 Traceback (most recent call last):
+2023-05-20 10:02:02   File "/./service_main.py", line 69, in get_author
+2023-05-20 10:02:02     response_author = cb.execute("http://" + service_author + "/authors/" + str(id), get_author_fallback())
+2023-05-20 10:02:02   File "/./custom_cb.py", line 47, in execute
+2023-05-20 10:02:02     raise ConnectionError('Service is unavailable')
+2023-05-20 10:02:02 ConnectionError: Service is unavailable
+2023-05-20 10:02:02 
+2023-05-20 10:02:02 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:02 
+2023-05-20 10:02:02 Traceback (most recent call last):
+2023-05-20 10:02:02   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 10:02:02     msg = self.format(record)
+2023-05-20 10:02:02   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 10:02:02     return fmt.format(record)
+2023-05-20 10:02:02   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 10:02:02     record.message = record.getMessage()
+2023-05-20 10:02:02   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 10:02:02     msg = msg % self.args
+2023-05-20 10:02:02 TypeError: not all arguments converted during string formatting
+2023-05-20 10:02:02 Call stack:
+2023-05-20 10:02:02   File "<string>", line 1, in <module>
+2023-05-20 10:02:02   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 10:02:02     exitcode = _main(fd, parent_sentinel)
+2023-05-20 10:02:02   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 10:02:02     return self._bootstrap(parent_sentinel)
+2023-05-20 10:02:02   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 10:02:02     self.run()
+2023-05-20 10:02:02   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 10:02:02     self._target(*self._args, **self._kwargs)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 10:02:02     target(sockets=sockets)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 10:02:02     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 10:02:02   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 10:02:02     return loop.run_until_complete(main)
+2023-05-20 10:02:02   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 10:02:02     self.run_forever()
+2023-05-20 10:02:02   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 10:02:02 INFO:     172.19.0.1:39066 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 10:02:05 temporary unavailable
+2023-05-20 10:02:05 INFO:     172.19.0.1:39070 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:02     self._run_once()
+2023-05-20 10:02:02   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 10:02:02     handle._run()
+2023-05-20 10:02:02   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 10:02:02     self._context.run(self._callback, *self._args)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 10:02:02     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 10:02:02     return await self.app(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 10:02:02     await super().__call__(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 10:02:02     await self.middleware_stack(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 10:02:02     await self.app(scope, receive, _send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 10:02:02     await self.app(scope, receive, sender)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 10:02:02     await self.app(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 10:02:02     await route.handle(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 10:02:02     await self.app(scope, receive, send)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 10:02:02     response = await func(request)
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 10:02:02     raw_response = await run_endpoint_function(
+2023-05-20 10:02:02   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 10:02:02     return await dependant.call(**values)
+2023-05-20 10:02:02   File "/./service_main.py", line 103, in read_presentation
+2023-05-20 10:02:02     author = get_author(presentation.author_id)
+2023-05-20 10:02:02   File "/./service_main.py", line 71, in get_author
+2023-05-20 10:02:02     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 10:02:02 Message: '>>> Error Connecting:'
+2023-05-20 10:02:02 Arguments: (ConnectionError('Service is unavailable'),)
+2023-05-20 10:02:02 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:02 WARNING:root:
+2023-05-20 10:02:03 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:03 WARNING:root:
+2023-05-20 10:02:04 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:04 WARNING:root:
+2023-05-20 10:02:05 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:05 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:05 WARNING:root:
+2023-05-20 10:02:06 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:06 WARNING:root:
+2023-05-20 10:02:07 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:07 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:07 WARNING:root:
+2023-05-20 10:02:07 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:08 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:08 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:08 WARNING:root:
+2023-05-20 10:02:09 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:09 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:09 WARNING:root:
+2023-05-20 10:02:10 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:10 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:10 WARNING:root:
+2023-05-20 10:02:11 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:07 temporary unavailable
+2023-05-20 10:02:07 INFO:     172.19.0.1:39074 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:07 temporary unavailable
+2023-05-20 10:02:07 INFO:     172.19.0.1:39078 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:08 temporary unavailable
+2023-05-20 10:02:08 INFO:     172.19.0.1:39082 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:09 temporary unavailable
+2023-05-20 10:02:09 INFO:     172.19.0.1:39086 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:10 temporary unavailable
+2023-05-20 10:02:10 INFO:     172.19.0.1:39090 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:11 temporary unavailable
+2023-05-20 10:02:11 INFO:     172.19.0.1:39094 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:11 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 2
+2023-05-20 10:02:11 WARNING:root:
+2023-05-20 10:02:12 INFO:root:Try half_open Circuit breaker
+2023-05-20 10:02:12 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:12 WARNING:root:
+2023-05-20 10:02:13 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:13 WARNING:root:
+2023-05-20 10:02:14 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:14 WARNING:root:
+2023-05-20 10:02:15 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:16 WARNING:root:
+2023-05-20 10:02:17 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:17 WARNING:root:
+2023-05-20 10:02:18 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:18 WARNING:root:
+2023-05-20 10:02:19 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:19 WARNING:root:
+2023-05-20 10:02:20 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:20 WARNING:root:
+2023-05-20 10:02:21 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:21 WARNING:root:
+2023-05-20 10:02:22 WARNING:root:Circuit "CB for Author service" is "HALF_OPEN", failures: 2
+2023-05-20 10:02:22 WARNING:root:
+2023-05-20 10:02:22 WARNING:root:Request failed
+2023-05-20 10:02:22 --- Logging error ---
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 10:02:22     conn = connection.create_connection(
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 10:02:22     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 10:02:22   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 10:02:22     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 10:02:22 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 10:02:22     httplib_response = self._make_request(
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 10:02:22     conn.request(method, url, **httplib_request_kw)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 10:02:22     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 10:02:22     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 10:02:22     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 10:02:22     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 10:02:22     self.send(msg)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 10:02:22     self.connect()
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 10:02:22     conn = self._new_conn()
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 10:02:22     raise NewConnectionError(
+2023-05-20 10:02:22 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9fd8c9ba60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 10:02:22     resp = conn.urlopen(
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 10:02:22     retries = retries.increment(
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 10:02:22     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 10:02:22 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9fd8c9ba60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/./custom_cb.py", line 29, in execute
+2023-05-20 10:02:22     response = requests.get(url, timeout=3)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 10:02:22     return request("get", url, params=params, **kwargs)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 10:02:22     return session.request(method=method, url=url, **kwargs)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 10:02:22     resp = self.send(prep, **send_kwargs)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 10:02:22     r = adapter.send(request, **kwargs)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 10:02:22     raise ConnectionError(e, request=request)
+2023-05-20 10:02:22 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9fd8c9ba60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/./service_main.py", line 69, in get_author
+2023-05-20 10:02:22     response_author = cb.execute("http://" + service_author + "/authors/" + str(id), get_author_fallback())
+2023-05-20 10:02:22   File "/./custom_cb.py", line 41, in execute
+2023-05-20 10:02:22     raise ConnectionError('Service is unavailable')
+2023-05-20 10:02:22 ConnectionError: Service is unavailable
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 During handling of the above exception, another exception occurred:
+2023-05-20 10:02:22 
+2023-05-20 10:02:22 Traceback (most recent call last):
+2023-05-20 10:02:22   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 10:02:22     msg = self.format(record)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 10:02:22     return fmt.format(record)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 10:02:22     record.message = record.getMessage()
+2023-05-20 10:02:22   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 10:02:22     msg = msg % self.args
+2023-05-20 10:02:22 TypeError: not all arguments converted during string formatting
+2023-05-20 10:02:22 Call stack:
+2023-05-20 10:02:22   File "<string>", line 1, in <module>
+2023-05-20 10:02:22   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 10:02:22     exitcode = _main(fd, parent_sentinel)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 10:02:22     return self._bootstrap(parent_sentinel)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 10:02:22     self.run()
+2023-05-20 10:02:22   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 10:02:22     self._target(*self._args, **self._kwargs)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 10:02:22     target(sockets=sockets)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 10:02:22     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 10:02:22   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 10:02:22     return loop.run_until_complete(main)
+2023-05-20 10:02:22   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 10:02:22     self.run_forever()
+2023-05-20 10:02:22   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 10:02:22     self._run_once()
+2023-05-20 10:02:22   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 10:02:22     handle._run()
+2023-05-20 10:02:22   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 10:02:22 INFO:     172.19.0.1:39098 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 10:02:25 temporary unavailable
+2023-05-20 10:02:25 INFO:     172.19.0.1:39102 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:26 temporary unavailable
+2023-05-20 10:02:26 INFO:     172.19.0.1:39106 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:22     self._context.run(self._callback, *self._args)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 10:02:22     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 10:02:22     return await self.app(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 10:02:22     await super().__call__(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 10:02:22     await self.middleware_stack(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 10:02:22     await self.app(scope, receive, _send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 10:02:22     await self.app(scope, receive, sender)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 10:02:22     await self.app(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 10:02:22     await route.handle(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 10:02:22     await self.app(scope, receive, send)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 10:02:22     response = await func(request)
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 10:02:22     raw_response = await run_endpoint_function(
+2023-05-20 10:02:22   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 10:02:22     return await dependant.call(**values)
+2023-05-20 10:02:22   File "/./service_main.py", line 103, in read_presentation
+2023-05-20 10:02:22     author = get_author(presentation.author_id)
+2023-05-20 10:02:22   File "/./service_main.py", line 71, in get_author
+2023-05-20 10:02:22     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 10:02:22 Message: '>>> Error Connecting:'
+2023-05-20 10:02:22 Arguments: (ConnectionError('Service is unavailable'),)
+2023-05-20 10:02:23 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:23 WARNING:root:
+2023-05-20 10:02:24 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:24 WARNING:root:
+2023-05-20 10:02:25 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:25 WARNING:root:
+2023-05-20 10:02:25 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:26 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:26 WARNING:root:
+2023-05-20 10:02:26 INFO:root:Stay Circuit breaker open
+2023-05-20 10:02:27 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:27 WARNING:root:
+2023-05-20 10:02:28 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:28 WARNING:root:
+2023-05-20 10:02:29 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:29 WARNING:root:
+2023-05-20 10:02:30 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:30 WARNING:root:
+2023-05-20 10:02:31 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:31 WARNING:root:
+2023-05-20 10:02:32 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:32 WARNING:root:
+2023-05-20 10:02:33 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:33 WARNING:root:
+2023-05-20 10:02:34 WARNING:root:Circuit "CB for Author service" is "OPEN", failures: 3
+2023-05-20 10:02:34 WARNING:root:
+2023-05-20 10:02:34 INFO:root:Try half_open Circuit breaker
+2023-05-20 10:02:34 INFO:root:Request successful
+2023-05-20 10:02:34 Moore
+2023-05-20 10:02:34 INFO:     172.19.0.1:39110 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:35 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:35 WARNING:root:
+2023-05-20 10:02:36 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:36 WARNING:root:
+2023-05-20 10:02:36 INFO:root:Request successful
+2023-05-20 10:02:36 Moore
+2023-05-20 10:02:36 INFO:     172.19.0.1:39116 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 10:02:37 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:37 WARNING:root:
+2023-05-20 10:02:38 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:38 WARNING:root:
+2023-05-20 10:02:39 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:39 WARNING:root:
+2023-05-20 10:02:40 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:40 WARNING:root:
+2023-05-20 10:02:41 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:41 WARNING:root:
+2023-05-20 10:02:42 WARNING:root:Circuit "CB for Author service" is "CLOSED", failures: 0
+2023-05-20 10:02:42 WARNING:root:

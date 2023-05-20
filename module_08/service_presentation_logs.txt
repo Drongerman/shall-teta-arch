@@ -1,0 +1,2386 @@
+2023-05-20 08:32:05 INFO:     Will watch for changes in these directories: ['/']
+2023-05-20 08:32:05 INFO:     Uvicorn running on http://0.0.0.0:8083 (Press CTRL+C to quit)
+2023-05-20 08:32:05 INFO:     Started reloader process [1] using WatchFiles
+2023-05-20 08:32:05 INFO:     Started server process [8]
+2023-05-20 08:32:05 INFO:     Waiting for application startup.
+2023-05-20 08:32:05 INFO:     Application startup complete.
+2023-05-20 08:32:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:06 WARNING:root:
+2023-05-20 08:32:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:07 WARNING:root:
+2023-05-20 08:32:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:08 WARNING:root:
+2023-05-20 08:32:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:09 WARNING:root:
+2023-05-20 08:32:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:10 WARNING:root:
+2023-05-20 08:32:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:11 WARNING:root:
+2023-05-20 08:32:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:12 WARNING:root:
+2023-05-20 08:32:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:13 WARNING:root:
+2023-05-20 08:32:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:14 WARNING:root:
+2023-05-20 08:32:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:15 WARNING:root:
+2023-05-20 08:32:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:16 WARNING:root:
+2023-05-20 08:32:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:17 WARNING:root:
+2023-05-20 08:32:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:18 WARNING:root:
+2023-05-20 08:32:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:19 WARNING:root:
+2023-05-20 08:32:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:20 WARNING:root:
+2023-05-20 08:32:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:21 WARNING:root:
+2023-05-20 08:32:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:22 WARNING:root:
+2023-05-20 08:32:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:24 WARNING:root:
+2023-05-20 08:32:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:25 WARNING:root:
+2023-05-20 08:32:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:26 WARNING:root:
+2023-05-20 08:32:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:27 WARNING:root:
+2023-05-20 08:32:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:28 WARNING:root:
+2023-05-20 08:32:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:29 WARNING:root:
+2023-05-20 08:32:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:30 WARNING:root:
+2023-05-20 08:32:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:31 WARNING:root:
+2023-05-20 08:32:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:32 WARNING:root:
+2023-05-20 08:32:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:33 WARNING:root:
+2023-05-20 08:32:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:34 WARNING:root:
+2023-05-20 08:32:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:35 WARNING:root:
+2023-05-20 08:32:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:36 WARNING:root:
+2023-05-20 08:32:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:37 WARNING:root:
+2023-05-20 08:32:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:38 WARNING:root:
+2023-05-20 08:32:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:39 WARNING:root:
+2023-05-20 08:32:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:40 WARNING:root:
+2023-05-20 08:32:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:41 WARNING:root:
+2023-05-20 08:32:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:42 WARNING:root:
+2023-05-20 08:32:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:43 WARNING:root:
+2023-05-20 08:32:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:44 WARNING:root:
+2023-05-20 08:32:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:45 WARNING:root:
+2023-05-20 08:32:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:46 WARNING:root:
+2023-05-20 08:32:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:47 WARNING:root:
+2023-05-20 08:32:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:48 WARNING:root:
+2023-05-20 08:32:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:49 WARNING:root:
+2023-05-20 08:32:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:50 WARNING:root:
+2023-05-20 08:32:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:51 WARNING:root:
+2023-05-20 08:32:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:52 WARNING:root:
+2023-05-20 08:32:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:53 WARNING:root:
+2023-05-20 08:32:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:54 WARNING:root:
+2023-05-20 08:32:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:55 WARNING:root:
+2023-05-20 08:32:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:56 WARNING:root:
+2023-05-20 08:32:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:57 WARNING:root:
+2023-05-20 08:32:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:58 WARNING:root:
+2023-05-20 08:32:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:32:59 WARNING:root:
+2023-05-20 08:33:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:00 WARNING:root:
+2023-05-20 08:33:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:01 WARNING:root:
+2023-05-20 08:33:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:02 WARNING:root:
+2023-05-20 08:33:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:03 WARNING:root:
+2023-05-20 08:33:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:04 WARNING:root:
+2023-05-20 08:33:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:05 WARNING:root:
+2023-05-20 08:33:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:06 WARNING:root:
+2023-05-20 08:33:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:07 WARNING:root:
+2023-05-20 08:33:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:08 WARNING:root:
+2023-05-20 08:33:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:09 WARNING:root:
+2023-05-20 08:33:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:10 WARNING:root:
+2023-05-20 08:33:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:11 WARNING:root:
+2023-05-20 08:33:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:12 WARNING:root:
+2023-05-20 08:33:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:13 WARNING:root:
+2023-05-20 08:33:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:14 WARNING:root:
+2023-05-20 08:33:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:15 WARNING:root:
+2023-05-20 08:33:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:16 WARNING:root:
+2023-05-20 08:33:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:17 WARNING:root:
+2023-05-20 08:33:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:18 WARNING:root:
+2023-05-20 08:33:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:19 WARNING:root:
+2023-05-20 08:33:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:20 WARNING:root:
+2023-05-20 08:33:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:21 WARNING:root:
+2023-05-20 08:33:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:22 WARNING:root:
+2023-05-20 08:33:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:23 WARNING:root:
+2023-05-20 08:33:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:24 WARNING:root:
+2023-05-20 08:33:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:25 WARNING:root:
+2023-05-20 08:33:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:26 WARNING:root:
+2023-05-20 08:33:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:27 WARNING:root:
+2023-05-20 08:33:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:28 WARNING:root:
+2023-05-20 08:33:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:29 WARNING:root:
+2023-05-20 08:33:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:30 WARNING:root:
+2023-05-20 08:33:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:31 WARNING:root:
+2023-05-20 08:33:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:32 WARNING:root:
+2023-05-20 08:33:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:33 WARNING:root:
+2023-05-20 08:33:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:34 WARNING:root:
+2023-05-20 08:33:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:35 WARNING:root:
+2023-05-20 08:33:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:36 WARNING:root:
+2023-05-20 08:33:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:37 WARNING:root:
+2023-05-20 08:33:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:38 WARNING:root:
+2023-05-20 08:33:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:39 WARNING:root:
+2023-05-20 08:33:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:40 WARNING:root:
+2023-05-20 08:33:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:41 WARNING:root:
+2023-05-20 08:33:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:42 WARNING:root:
+2023-05-20 08:33:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:43 WARNING:root:
+2023-05-20 08:33:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:44 WARNING:root:
+2023-05-20 08:33:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:45 WARNING:root:
+2023-05-20 08:33:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:46 WARNING:root:
+2023-05-20 08:33:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:47 WARNING:root:
+2023-05-20 08:33:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:48 WARNING:root:
+2023-05-20 08:33:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:49 WARNING:root:
+2023-05-20 08:33:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:50 WARNING:root:
+2023-05-20 08:33:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:51 WARNING:root:
+2023-05-20 08:33:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:52 WARNING:root:
+2023-05-20 08:33:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:53 WARNING:root:
+2023-05-20 08:33:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:54 WARNING:root:
+2023-05-20 08:33:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:55 WARNING:root:
+2023-05-20 08:33:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:56 WARNING:root:
+2023-05-20 08:33:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:57 WARNING:root:
+2023-05-20 08:33:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:58 WARNING:root:
+2023-05-20 08:33:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:33:59 WARNING:root:
+2023-05-20 08:34:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:00 WARNING:root:
+2023-05-20 08:34:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:01 WARNING:root:
+2023-05-20 08:34:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:02 WARNING:root:
+2023-05-20 08:34:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:03 WARNING:root:
+2023-05-20 08:34:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:04 WARNING:root:
+2023-05-20 08:34:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:05 WARNING:root:
+2023-05-20 08:34:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:06 WARNING:root:
+2023-05-20 08:34:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:08 WARNING:root:
+2023-05-20 08:34:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:09 WARNING:root:
+2023-05-20 08:34:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:10 WARNING:root:
+2023-05-20 08:34:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:11 WARNING:root:
+2023-05-20 08:34:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:12 WARNING:root:
+2023-05-20 08:34:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:13 WARNING:root:
+2023-05-20 08:34:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:14 WARNING:root:
+2023-05-20 08:34:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:15 WARNING:root:
+2023-05-20 08:34:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:16 WARNING:root:
+2023-05-20 08:34:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:17 WARNING:root:
+2023-05-20 08:34:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:18 WARNING:root:
+2023-05-20 08:34:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:19 WARNING:root:
+2023-05-20 08:34:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:20 WARNING:root:
+2023-05-20 08:34:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:21 WARNING:root:
+2023-05-20 08:34:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:22 WARNING:root:
+2023-05-20 08:34:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:23 WARNING:root:
+2023-05-20 08:34:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:24 WARNING:root:
+2023-05-20 08:34:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:25 WARNING:root:
+2023-05-20 08:34:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:26 WARNING:root:
+2023-05-20 08:34:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:27 WARNING:root:
+2023-05-20 08:34:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:28 WARNING:root:
+2023-05-20 08:34:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:29 WARNING:root:
+2023-05-20 08:34:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:30 WARNING:root:
+2023-05-20 08:34:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:31 WARNING:root:
+2023-05-20 08:34:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:32 WARNING:root:
+2023-05-20 08:34:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:33 WARNING:root:
+2023-05-20 08:34:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:34 WARNING:root:
+2023-05-20 08:34:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:35 WARNING:root:
+2023-05-20 08:34:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:36 WARNING:root:
+2023-05-20 08:34:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:37 WARNING:root:
+2023-05-20 08:34:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:38 WARNING:root:
+2023-05-20 08:34:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:39 WARNING:root:
+2023-05-20 08:34:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:40 WARNING:root:
+2023-05-20 08:34:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:41 WARNING:root:
+2023-05-20 08:34:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:42 WARNING:root:
+2023-05-20 08:34:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:43 WARNING:root:
+2023-05-20 08:34:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:44 WARNING:root:
+2023-05-20 08:34:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:45 WARNING:root:
+2023-05-20 08:34:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:46 WARNING:root:
+2023-05-20 08:34:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:47 WARNING:root:
+2023-05-20 08:34:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:48 WARNING:root:
+2023-05-20 08:34:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:49 WARNING:root:
+2023-05-20 08:34:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:50 WARNING:root:
+2023-05-20 08:34:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:51 WARNING:root:
+2023-05-20 08:34:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:52 WARNING:root:
+2023-05-20 08:34:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:53 WARNING:root:
+2023-05-20 08:34:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:54 WARNING:root:
+2023-05-20 08:34:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:55 WARNING:root:
+2023-05-20 08:34:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:56 WARNING:root:
+2023-05-20 08:34:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:57 WARNING:root:
+2023-05-20 08:34:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:58 WARNING:root:
+2023-05-20 08:34:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:34:59 WARNING:root:
+2023-05-20 08:35:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:00 WARNING:root:
+2023-05-20 08:35:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:01 WARNING:root:
+2023-05-20 08:35:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:02 WARNING:root:
+2023-05-20 08:35:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:03 WARNING:root:
+2023-05-20 08:35:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:04 WARNING:root:
+2023-05-20 08:35:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:05 WARNING:root:
+2023-05-20 08:35:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:06 WARNING:root:
+2023-05-20 08:35:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:07 WARNING:root:
+2023-05-20 08:35:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:08 WARNING:root:
+2023-05-20 08:35:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:09 WARNING:root:
+2023-05-20 08:35:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:10 WARNING:root:
+2023-05-20 08:35:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:11 WARNING:root:
+2023-05-20 08:35:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:12 WARNING:root:
+2023-05-20 08:35:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:13 WARNING:root:
+2023-05-20 08:35:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:14 WARNING:root:
+2023-05-20 08:35:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:15 WARNING:root:
+2023-05-20 08:35:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:16 WARNING:root:
+2023-05-20 08:35:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:17 WARNING:root:
+2023-05-20 08:35:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:18 WARNING:root:
+2023-05-20 08:35:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:19 WARNING:root:
+2023-05-20 08:35:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:20 WARNING:root:
+2023-05-20 08:35:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:21 WARNING:root:
+2023-05-20 08:35:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:22 WARNING:root:
+2023-05-20 08:35:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:23 WARNING:root:
+2023-05-20 08:35:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:24 WARNING:root:
+2023-05-20 08:35:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:25 WARNING:root:
+2023-05-20 08:35:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:26 WARNING:root:
+2023-05-20 08:35:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:27 WARNING:root:
+2023-05-20 08:35:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:28 WARNING:root:
+2023-05-20 08:35:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:29 WARNING:root:
+2023-05-20 08:35:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:30 WARNING:root:
+2023-05-20 08:35:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:31 WARNING:root:
+2023-05-20 08:35:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:32 WARNING:root:
+2023-05-20 08:35:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:33 WARNING:root:
+2023-05-20 08:35:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:34 WARNING:root:
+2023-05-20 08:35:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:35 WARNING:root:
+2023-05-20 08:35:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:36 WARNING:root:
+2023-05-20 08:35:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:38 WARNING:root:
+2023-05-20 08:35:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:39 WARNING:root:
+2023-05-20 08:35:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:40 WARNING:root:
+2023-05-20 08:35:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:41 WARNING:root:
+2023-05-20 08:35:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:42 WARNING:root:
+2023-05-20 08:35:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:43 WARNING:root:
+2023-05-20 08:35:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:44 WARNING:root:
+2023-05-20 08:35:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:45 WARNING:root:
+2023-05-20 08:35:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:46 WARNING:root:
+2023-05-20 08:35:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:47 WARNING:root:
+2023-05-20 08:35:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:48 WARNING:root:
+2023-05-20 08:35:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:49 WARNING:root:
+2023-05-20 08:35:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:50 WARNING:root:
+2023-05-20 08:35:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:51 WARNING:root:
+2023-05-20 08:35:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:52 WARNING:root:
+2023-05-20 08:35:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:53 WARNING:root:
+2023-05-20 08:35:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:54 WARNING:root:
+2023-05-20 08:35:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:55 WARNING:root:
+2023-05-20 08:35:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:56 WARNING:root:
+2023-05-20 08:35:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:57 WARNING:root:
+2023-05-20 08:35:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:58 WARNING:root:
+2023-05-20 08:35:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:35:59 WARNING:root:
+2023-05-20 08:36:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:00 WARNING:root:
+2023-05-20 08:36:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:01 WARNING:root:
+2023-05-20 08:36:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:02 WARNING:root:
+2023-05-20 08:36:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:03 WARNING:root:
+2023-05-20 08:36:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:04 WARNING:root:
+2023-05-20 08:36:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:05 WARNING:root:
+2023-05-20 08:36:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:06 WARNING:root:
+2023-05-20 08:36:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:07 WARNING:root:
+2023-05-20 08:36:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:08 WARNING:root:
+2023-05-20 08:36:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:09 WARNING:root:
+2023-05-20 08:36:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:10 WARNING:root:
+2023-05-20 08:36:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:11 WARNING:root:
+2023-05-20 08:36:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:12 WARNING:root:
+2023-05-20 08:36:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:13 WARNING:root:
+2023-05-20 08:36:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:14 WARNING:root:
+2023-05-20 08:36:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:15 WARNING:root:
+2023-05-20 08:36:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:16 WARNING:root:
+2023-05-20 08:36:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:17 WARNING:root:
+2023-05-20 08:36:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:18 WARNING:root:
+2023-05-20 08:36:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:19 WARNING:root:
+2023-05-20 08:36:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:20 WARNING:root:
+2023-05-20 08:36:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:21 WARNING:root:
+2023-05-20 08:36:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:22 WARNING:root:
+2023-05-20 08:36:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:23 WARNING:root:
+2023-05-20 08:36:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:24 WARNING:root:
+2023-05-20 08:36:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:25 WARNING:root:
+2023-05-20 08:36:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:26 WARNING:root:
+2023-05-20 08:36:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:27 WARNING:root:
+2023-05-20 08:36:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:28 WARNING:root:
+2023-05-20 08:36:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:29 WARNING:root:
+2023-05-20 08:36:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:30 WARNING:root:
+2023-05-20 08:36:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:31 WARNING:root:
+2023-05-20 08:36:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:32 WARNING:root:
+2023-05-20 08:36:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:33 WARNING:root:
+2023-05-20 08:36:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:34 WARNING:root:
+2023-05-20 08:36:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:35 WARNING:root:
+2023-05-20 08:36:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:36 WARNING:root:
+2023-05-20 08:36:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:37 WARNING:root:
+2023-05-20 08:36:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:38 WARNING:root:
+2023-05-20 08:36:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:39 WARNING:root:
+2023-05-20 08:36:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:40 WARNING:root:
+2023-05-20 08:36:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:41 WARNING:root:
+2023-05-20 08:36:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:42 WARNING:root:
+2023-05-20 08:36:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:43 WARNING:root:
+2023-05-20 08:36:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:44 WARNING:root:
+2023-05-20 08:36:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:45 WARNING:root:
+2023-05-20 08:36:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:46 WARNING:root:
+2023-05-20 08:36:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:47 WARNING:root:
+2023-05-20 08:36:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:48 WARNING:root:
+2023-05-20 08:36:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:49 WARNING:root:
+2023-05-20 08:36:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:50 WARNING:root:
+2023-05-20 08:36:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:51 WARNING:root:
+2023-05-20 08:36:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:52 WARNING:root:
+2023-05-20 08:36:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:53 WARNING:root:
+2023-05-20 08:36:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:54 WARNING:root:
+2023-05-20 08:36:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:55 WARNING:root:
+2023-05-20 08:36:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:56 WARNING:root:
+2023-05-20 08:36:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:57 WARNING:root:
+2023-05-20 08:36:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:58 WARNING:root:
+2023-05-20 08:36:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:36:59 WARNING:root:
+2023-05-20 08:37:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:00 WARNING:root:
+2023-05-20 08:37:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:01 WARNING:root:
+2023-05-20 08:37:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:02 WARNING:root:
+2023-05-20 08:37:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:03 WARNING:root:
+2023-05-20 08:37:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:04 WARNING:root:
+2023-05-20 08:37:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:05 WARNING:root:
+2023-05-20 08:37:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:06 WARNING:root:
+2023-05-20 08:37:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:07 WARNING:root:
+2023-05-20 08:37:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:08 WARNING:root:
+2023-05-20 08:37:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:09 WARNING:root:
+2023-05-20 08:37:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:10 WARNING:root:
+2023-05-20 08:37:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:11 WARNING:root:
+2023-05-20 08:37:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:13 WARNING:root:
+2023-05-20 08:37:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:14 WARNING:root:
+2023-05-20 08:37:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:15 WARNING:root:
+2023-05-20 08:37:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:16 WARNING:root:
+2023-05-20 08:37:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:17 WARNING:root:
+2023-05-20 08:37:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:18 WARNING:root:
+2023-05-20 08:37:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:19 WARNING:root:
+2023-05-20 08:37:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:20 WARNING:root:
+2023-05-20 08:37:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:21 WARNING:root:
+2023-05-20 08:37:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:22 WARNING:root:
+2023-05-20 08:37:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:23 WARNING:root:
+2023-05-20 08:37:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:24 WARNING:root:
+2023-05-20 08:37:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:25 WARNING:root:
+2023-05-20 08:37:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:26 WARNING:root:
+2023-05-20 08:37:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:27 WARNING:root:
+2023-05-20 08:37:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:28 WARNING:root:
+2023-05-20 08:37:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:29 WARNING:root:
+2023-05-20 08:37:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:30 WARNING:root:
+2023-05-20 08:37:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:31 WARNING:root:
+2023-05-20 08:37:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:32 WARNING:root:
+2023-05-20 08:37:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:33 WARNING:root:
+2023-05-20 08:37:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:34 WARNING:root:
+2023-05-20 08:37:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:35 WARNING:root:
+2023-05-20 08:37:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:36 WARNING:root:
+2023-05-20 08:37:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:37 WARNING:root:
+2023-05-20 08:37:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:38 WARNING:root:
+2023-05-20 08:37:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:39 WARNING:root:
+2023-05-20 08:37:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:40 WARNING:root:
+2023-05-20 08:37:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:41 WARNING:root:
+2023-05-20 08:37:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:42 WARNING:root:
+2023-05-20 08:37:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:43 WARNING:root:
+2023-05-20 08:37:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:44 WARNING:root:
+2023-05-20 08:37:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:45 WARNING:root:
+2023-05-20 08:37:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:46 WARNING:root:
+2023-05-20 08:37:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:47 WARNING:root:
+2023-05-20 08:37:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:48 WARNING:root:
+2023-05-20 08:37:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:49 WARNING:root:
+2023-05-20 08:37:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:50 WARNING:root:
+2023-05-20 08:37:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:51 WARNING:root:
+2023-05-20 08:37:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:52 WARNING:root:
+2023-05-20 08:37:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:53 WARNING:root:
+2023-05-20 08:37:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:54 WARNING:root:
+2023-05-20 08:37:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:55 WARNING:root:
+2023-05-20 08:37:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:56 WARNING:root:
+2023-05-20 08:37:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:57 WARNING:root:
+2023-05-20 08:37:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:58 WARNING:root:
+2023-05-20 08:37:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:37:59 WARNING:root:
+2023-05-20 08:38:25 Moore
+2023-05-20 08:38:25 INFO:     172.18.0.1:38100 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:38:29 Moore
+2023-05-20 08:38:29 INFO:     172.18.0.1:38106 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:38:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:00 WARNING:root:
+2023-05-20 08:38:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:01 WARNING:root:
+2023-05-20 08:38:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:02 WARNING:root:
+2023-05-20 08:38:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:03 WARNING:root:
+2023-05-20 08:38:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:04 WARNING:root:
+2023-05-20 08:38:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:05 WARNING:root:
+2023-05-20 08:38:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:06 WARNING:root:
+2023-05-20 08:38:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:07 WARNING:root:
+2023-05-20 08:38:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:08 WARNING:root:
+2023-05-20 08:38:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:09 WARNING:root:
+2023-05-20 08:38:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:10 WARNING:root:
+2023-05-20 08:38:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:11 WARNING:root:
+2023-05-20 08:38:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:12 WARNING:root:
+2023-05-20 08:38:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:13 WARNING:root:
+2023-05-20 08:38:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:14 WARNING:root:
+2023-05-20 08:38:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:15 WARNING:root:
+2023-05-20 08:38:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:16 WARNING:root:
+2023-05-20 08:38:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:17 WARNING:root:
+2023-05-20 08:38:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:18 WARNING:root:
+2023-05-20 08:38:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:19 WARNING:root:
+2023-05-20 08:38:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:20 WARNING:root:
+2023-05-20 08:38:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:21 WARNING:root:
+2023-05-20 08:38:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:22 WARNING:root:
+2023-05-20 08:38:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:23 WARNING:root:
+2023-05-20 08:38:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:24 WARNING:root:
+2023-05-20 08:38:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:25 WARNING:root:
+2023-05-20 08:38:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:26 WARNING:root:
+2023-05-20 08:38:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:27 WARNING:root:
+2023-05-20 08:38:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:28 WARNING:root:
+2023-05-20 08:38:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:29 WARNING:root:
+2023-05-20 08:38:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:30 WARNING:root:
+2023-05-20 08:38:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:32 WARNING:root:
+2023-05-20 08:38:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:33 WARNING:root:
+2023-05-20 08:38:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:34 WARNING:root:
+2023-05-20 08:38:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:35 WARNING:root:
+2023-05-20 08:38:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:36 WARNING:root:
+2023-05-20 08:38:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:37 WARNING:root:
+2023-05-20 08:38:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:38 WARNING:root:
+2023-05-20 08:38:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:39 WARNING:root:
+2023-05-20 08:38:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:40 WARNING:root:
+2023-05-20 08:38:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:41 WARNING:root:
+2023-05-20 08:38:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:42 WARNING:root:
+2023-05-20 08:38:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:43 WARNING:root:
+2023-05-20 08:38:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:44 WARNING:root:
+2023-05-20 08:38:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:45 WARNING:root:
+2023-05-20 08:38:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:46 WARNING:root:
+2023-05-20 08:38:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:47 WARNING:root:
+2023-05-20 08:38:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:48 WARNING:root:
+2023-05-20 08:38:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:49 WARNING:root:
+2023-05-20 08:38:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:50 WARNING:root:
+2023-05-20 08:38:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:51 WARNING:root:
+2023-05-20 08:38:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:52 WARNING:root:
+2023-05-20 08:38:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:53 WARNING:root:
+2023-05-20 08:38:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:54 WARNING:root:
+2023-05-20 08:38:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:55 WARNING:root:
+2023-05-20 08:38:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:56 WARNING:root:
+2023-05-20 08:38:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:57 WARNING:root:
+2023-05-20 08:38:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:58 WARNING:root:
+2023-05-20 08:38:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:38:59 WARNING:root:
+2023-05-20 08:39:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:00 WARNING:root:
+2023-05-20 08:39:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:01 WARNING:root:
+2023-05-20 08:39:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:02 WARNING:root:
+2023-05-20 08:39:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:03 WARNING:root:
+2023-05-20 08:39:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:04 WARNING:root:
+2023-05-20 08:39:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:05 WARNING:root:
+2023-05-20 08:39:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:06 WARNING:root:
+2023-05-20 08:39:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:07 WARNING:root:
+2023-05-20 08:39:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:08 WARNING:root:
+2023-05-20 08:39:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:09 WARNING:root:
+2023-05-20 08:39:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:10 WARNING:root:
+2023-05-20 08:39:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:11 WARNING:root:
+2023-05-20 08:39:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:12 WARNING:root:
+2023-05-20 08:39:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:13 WARNING:root:
+2023-05-20 08:39:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:14 WARNING:root:
+2023-05-20 08:39:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:15 WARNING:root:
+2023-05-20 08:39:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:16 WARNING:root:
+2023-05-20 08:39:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:17 WARNING:root:
+2023-05-20 08:39:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:18 WARNING:root:
+2023-05-20 08:39:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:19 WARNING:root:
+2023-05-20 08:39:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:20 WARNING:root:
+2023-05-20 08:39:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:21 WARNING:root:
+2023-05-20 08:39:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:22 WARNING:root:
+2023-05-20 08:39:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:23 WARNING:root:
+2023-05-20 08:39:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:24 WARNING:root:
+2023-05-20 08:39:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:25 WARNING:root:
+2023-05-20 08:39:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:26 WARNING:root:
+2023-05-20 08:39:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:27 WARNING:root:
+2023-05-20 08:39:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:28 WARNING:root:
+2023-05-20 08:39:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:29 WARNING:root:
+2023-05-20 08:39:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:30 WARNING:root:
+2023-05-20 08:39:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:31 WARNING:root:
+2023-05-20 08:39:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:32 WARNING:root:
+2023-05-20 08:39:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:33 WARNING:root:
+2023-05-20 08:39:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:34 WARNING:root:
+2023-05-20 08:39:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:35 WARNING:root:
+2023-05-20 08:39:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:36 WARNING:root:
+2023-05-20 08:39:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:37 WARNING:root:
+2023-05-20 08:39:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:38 WARNING:root:
+2023-05-20 08:39:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:39 WARNING:root:
+2023-05-20 08:39:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:40 WARNING:root:
+2023-05-20 08:39:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:41 WARNING:root:
+2023-05-20 08:39:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:42 WARNING:root:
+2023-05-20 08:39:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:43 WARNING:root:
+2023-05-20 08:39:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:44 WARNING:root:
+2023-05-20 08:39:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:45 WARNING:root:
+2023-05-20 08:39:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:46 WARNING:root:
+2023-05-20 08:39:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:47 WARNING:root:
+2023-05-20 08:39:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:48 WARNING:root:
+2023-05-20 08:39:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:49 WARNING:root:
+2023-05-20 08:39:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:50 WARNING:root:
+2023-05-20 08:39:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:51 WARNING:root:
+2023-05-20 08:39:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:52 WARNING:root:
+2023-05-20 08:39:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:53 WARNING:root:
+2023-05-20 08:39:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:54 WARNING:root:
+2023-05-20 08:39:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:55 WARNING:root:
+2023-05-20 08:39:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:56 WARNING:root:
+2023-05-20 08:39:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:57 WARNING:root:
+2023-05-20 08:39:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:58 WARNING:root:
+2023-05-20 08:39:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:39:59 WARNING:root:
+2023-05-20 08:40:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:00 WARNING:root:
+2023-05-20 08:40:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:02 WARNING:root:
+2023-05-20 08:40:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:03 WARNING:root:
+2023-05-20 08:40:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:04 WARNING:root:
+2023-05-20 08:40:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:05 WARNING:root:
+2023-05-20 08:40:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:06 WARNING:root:
+2023-05-20 08:40:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:07 WARNING:root:
+2023-05-20 08:40:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:08 WARNING:root:
+2023-05-20 08:40:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:09 WARNING:root:
+2023-05-20 08:40:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:10 WARNING:root:
+2023-05-20 08:40:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:11 WARNING:root:
+2023-05-20 08:40:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:12 WARNING:root:
+2023-05-20 08:40:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:13 WARNING:root:
+2023-05-20 08:40:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:14 WARNING:root:
+2023-05-20 08:40:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:15 WARNING:root:
+2023-05-20 08:40:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:16 WARNING:root:
+2023-05-20 08:40:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:17 WARNING:root:
+2023-05-20 08:40:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:18 WARNING:root:
+2023-05-20 08:40:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:19 WARNING:root:
+2023-05-20 08:40:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:20 WARNING:root:
+2023-05-20 08:40:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:21 WARNING:root:
+2023-05-20 08:40:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:22 WARNING:root:
+2023-05-20 08:40:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:23 WARNING:root:
+2023-05-20 08:40:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:24 WARNING:root:
+2023-05-20 08:40:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:25 WARNING:root:
+2023-05-20 08:40:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:26 WARNING:root:
+2023-05-20 08:40:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:27 WARNING:root:
+2023-05-20 08:40:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:28 WARNING:root:
+2023-05-20 08:40:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:29 WARNING:root:
+2023-05-20 08:40:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:30 WARNING:root:
+2023-05-20 08:40:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:31 WARNING:root:
+2023-05-20 08:40:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:32 WARNING:root:
+2023-05-20 08:40:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:33 WARNING:root:
+2023-05-20 08:40:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:34 WARNING:root:
+2023-05-20 08:40:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:35 WARNING:root:
+2023-05-20 08:40:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:36 WARNING:root:
+2023-05-20 08:40:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:37 WARNING:root:
+2023-05-20 08:40:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:38 WARNING:root:
+2023-05-20 08:40:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:39 WARNING:root:
+2023-05-20 08:40:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:40 WARNING:root:
+2023-05-20 08:40:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:41 WARNING:root:
+2023-05-20 08:40:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:42 WARNING:root:
+2023-05-20 08:40:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:43 WARNING:root:
+2023-05-20 08:40:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:44 WARNING:root:
+2023-05-20 08:40:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:45 WARNING:root:
+2023-05-20 08:40:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:46 WARNING:root:
+2023-05-20 08:40:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:47 WARNING:root:
+2023-05-20 08:40:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:48 WARNING:root:
+2023-05-20 08:40:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:49 WARNING:root:
+2023-05-20 08:40:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:50 WARNING:root:
+2023-05-20 08:40:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:51 WARNING:root:
+2023-05-20 08:40:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:52 WARNING:root:
+2023-05-20 08:40:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:53 WARNING:root:
+2023-05-20 08:40:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:54 WARNING:root:
+2023-05-20 08:40:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:55 WARNING:root:
+2023-05-20 08:40:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:56 WARNING:root:
+2023-05-20 08:40:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:57 WARNING:root:
+2023-05-20 08:40:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:58 WARNING:root:
+2023-05-20 08:40:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:40:59 WARNING:root:
+2023-05-20 08:41:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:00 WARNING:root:
+2023-05-20 08:41:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:01 WARNING:root:
+2023-05-20 08:41:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:02 WARNING:root:
+2023-05-20 08:41:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:03 WARNING:root:
+2023-05-20 08:41:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:04 WARNING:root:
+2023-05-20 08:41:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:05 WARNING:root:
+2023-05-20 08:41:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:06 WARNING:root:
+2023-05-20 08:41:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:07 WARNING:root:
+2023-05-20 08:41:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:08 WARNING:root:
+2023-05-20 08:41:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:09 WARNING:root:
+2023-05-20 08:41:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:10 WARNING:root:
+2023-05-20 08:41:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:11 WARNING:root:
+2023-05-20 08:41:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:12 WARNING:root:
+2023-05-20 08:41:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:13 WARNING:root:
+2023-05-20 08:41:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:14 WARNING:root:
+2023-05-20 08:41:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:15 WARNING:root:
+2023-05-20 08:41:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:16 WARNING:root:
+2023-05-20 08:41:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:17 WARNING:root:
+2023-05-20 08:41:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:18 WARNING:root:
+2023-05-20 08:41:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:19 WARNING:root:
+2023-05-20 08:41:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:20 WARNING:root:
+2023-05-20 08:41:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:21 WARNING:root:
+2023-05-20 08:41:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:22 WARNING:root:
+2023-05-20 08:41:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:23 WARNING:root:
+2023-05-20 08:41:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:24 WARNING:root:
+2023-05-20 08:41:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:25 WARNING:root:
+2023-05-20 08:41:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:26 WARNING:root:
+2023-05-20 08:41:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:27 WARNING:root:
+2023-05-20 08:41:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:28 WARNING:root:
+2023-05-20 08:41:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:29 WARNING:root:
+2023-05-20 08:41:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:30 WARNING:root:
+2023-05-20 08:41:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:31 WARNING:root:
+2023-05-20 08:41:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:32 WARNING:root:
+2023-05-20 08:41:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:33 WARNING:root:
+2023-05-20 08:41:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:35 WARNING:root:
+2023-05-20 08:41:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:36 WARNING:root:
+2023-05-20 08:41:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:37 WARNING:root:
+2023-05-20 08:41:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:38 WARNING:root:
+2023-05-20 08:41:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:39 WARNING:root:
+2023-05-20 08:41:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:40 WARNING:root:
+2023-05-20 08:41:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:41 WARNING:root:
+2023-05-20 08:41:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:42 WARNING:root:
+2023-05-20 08:41:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:43 WARNING:root:
+2023-05-20 08:41:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:44 WARNING:root:
+2023-05-20 08:41:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:45 WARNING:root:
+2023-05-20 08:41:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:46 WARNING:root:
+2023-05-20 08:41:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:47 WARNING:root:
+2023-05-20 08:41:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:48 WARNING:root:
+2023-05-20 08:41:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:49 WARNING:root:
+2023-05-20 08:41:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:50 WARNING:root:
+2023-05-20 08:41:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:51 WARNING:root:
+2023-05-20 08:41:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:52 WARNING:root:
+2023-05-20 08:41:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:53 WARNING:root:
+2023-05-20 08:41:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:54 WARNING:root:
+2023-05-20 08:41:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:55 WARNING:root:
+2023-05-20 08:41:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:56 WARNING:root:
+2023-05-20 08:41:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:57 WARNING:root:
+2023-05-20 08:41:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:58 WARNING:root:
+2023-05-20 08:41:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:41:59 WARNING:root:
+2023-05-20 08:42:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:00 WARNING:root:
+2023-05-20 08:42:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:01 WARNING:root:
+2023-05-20 08:42:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:02 WARNING:root:
+2023-05-20 08:42:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:03 WARNING:root:
+2023-05-20 08:42:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:04 WARNING:root:
+2023-05-20 08:42:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:05 WARNING:root:
+2023-05-20 08:42:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:06 WARNING:root:
+2023-05-20 08:42:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:07 WARNING:root:
+2023-05-20 08:42:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:08 WARNING:root:
+2023-05-20 08:42:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:09 WARNING:root:
+2023-05-20 08:42:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:10 WARNING:root:
+2023-05-20 08:42:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:11 WARNING:root:
+2023-05-20 08:42:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:12 WARNING:root:
+2023-05-20 08:42:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:13 WARNING:root:
+2023-05-20 08:42:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:14 WARNING:root:
+2023-05-20 08:42:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:15 WARNING:root:
+2023-05-20 08:42:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:16 WARNING:root:
+2023-05-20 08:42:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:17 WARNING:root:
+2023-05-20 08:42:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:18 WARNING:root:
+2023-05-20 08:42:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:19 WARNING:root:
+2023-05-20 08:42:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:20 WARNING:root:
+2023-05-20 08:42:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:21 WARNING:root:
+2023-05-20 08:42:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:22 WARNING:root:
+2023-05-20 08:42:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:23 WARNING:root:
+2023-05-20 08:42:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:24 WARNING:root:
+2023-05-20 08:42:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:25 WARNING:root:
+2023-05-20 08:42:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:26 WARNING:root:
+2023-05-20 08:42:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:27 WARNING:root:
+2023-05-20 08:42:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:28 WARNING:root:
+2023-05-20 08:42:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:29 WARNING:root:
+2023-05-20 08:42:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:30 WARNING:root:
+2023-05-20 08:42:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:31 WARNING:root:
+2023-05-20 08:42:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:32 WARNING:root:
+2023-05-20 08:42:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:33 WARNING:root:
+2023-05-20 08:42:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:34 WARNING:root:
+2023-05-20 08:42:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:35 WARNING:root:
+2023-05-20 08:42:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:36 WARNING:root:
+2023-05-20 08:42:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:37 WARNING:root:
+2023-05-20 08:42:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:38 WARNING:root:
+2023-05-20 08:42:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:39 WARNING:root:
+2023-05-20 08:42:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:40 WARNING:root:
+2023-05-20 08:42:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:41 WARNING:root:
+2023-05-20 08:42:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:42 WARNING:root:
+2023-05-20 08:42:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:43 WARNING:root:
+2023-05-20 08:42:38 Moore
+2023-05-20 08:42:38 INFO:     172.18.0.1:38114 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:42:39 Moore
+2023-05-20 08:42:39 INFO:     172.18.0.1:38120 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:42:40 Moore
+2023-05-20 08:42:40 INFO:     172.18.0.1:38126 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:42:41 Moore
+2023-05-20 08:42:41 INFO:     172.18.0.1:38132 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:42:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:44 WARNING:root:
+2023-05-20 08:42:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:45 WARNING:root:
+2023-05-20 08:42:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:46 WARNING:root:
+2023-05-20 08:42:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:47 WARNING:root:
+2023-05-20 08:42:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:48 WARNING:root:
+2023-05-20 08:42:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:49 WARNING:root:
+2023-05-20 08:42:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:50 WARNING:root:
+2023-05-20 08:42:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:51 WARNING:root:
+2023-05-20 08:42:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:52 WARNING:root:
+2023-05-20 08:42:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:53 WARNING:root:
+2023-05-20 08:42:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:54 WARNING:root:
+2023-05-20 08:42:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:55 WARNING:root:
+2023-05-20 08:42:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:56 WARNING:root:
+2023-05-20 08:42:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:57 WARNING:root:
+2023-05-20 08:42:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:58 WARNING:root:
+2023-05-20 08:42:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:42:59 WARNING:root:
+2023-05-20 08:43:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:00 WARNING:root:
+2023-05-20 08:43:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:01 WARNING:root:
+2023-05-20 08:43:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:02 WARNING:root:
+2023-05-20 08:43:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:03 WARNING:root:
+2023-05-20 08:43:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:04 WARNING:root:
+2023-05-20 08:43:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:05 WARNING:root:
+2023-05-20 08:43:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:06 WARNING:root:
+2023-05-20 08:43:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:08 WARNING:root:
+2023-05-20 08:43:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:09 WARNING:root:
+2023-05-20 08:43:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:10 WARNING:root:
+2023-05-20 08:43:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:11 WARNING:root:
+2023-05-20 08:43:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:12 WARNING:root:
+2023-05-20 08:43:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:13 WARNING:root:
+2023-05-20 08:43:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:14 WARNING:root:
+2023-05-20 08:43:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:43:15 WARNING:root:
+2023-05-20 08:43:15 --- Logging error ---
+2023-05-20 08:43:15 Traceback (most recent call last):
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:43:15     conn = connection.create_connection(
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 95, in create_connection
+2023-05-20 08:43:15     raise err
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 85, in create_connection
+2023-05-20 08:43:15     sock.connect(sa)
+2023-05-20 08:43:15 OSError: [Errno 113] No route to host
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 Traceback (most recent call last):
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:43:15     httplib_response = self._make_request(
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:43:15     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:43:15     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:43:15     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:43:15     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:43:15     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:43:15     self.send(msg)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:43:15     self.connect()
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:43:15     conn = self._new_conn()
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:43:15     raise NewConnectionError(
+2023-05-20 08:43:15 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf395af280>: Failed to establish a new connection: [Errno 113] No route to host
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 Traceback (most recent call last):
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:43:15     resp = conn.urlopen(
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:43:15     retries = retries.increment(
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:43:15     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:43:15 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf395af280>: Failed to establish a new connection: [Errno 113] No route to host'))
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 Traceback (most recent call last):
+2023-05-20 08:43:15   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:43:15     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:43:15     return request("get", url, params=params, **kwargs)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:43:15     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:43:15     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:43:15     r = adapter.send(request, **kwargs)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:43:15     raise ConnectionError(e, request=request)
+2023-05-20 08:43:15 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf395af280>: Failed to establish a new connection: [Errno 113] No route to host'))
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:15 
+2023-05-20 08:43:15 Traceback (most recent call last):
+2023-05-20 08:43:15   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:43:15     msg = self.format(record)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:43:15     return fmt.format(record)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:43:15     record.message = record.getMessage()
+2023-05-20 08:43:15   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:43:15     msg = msg % self.args
+2023-05-20 08:43:15 TypeError: not all arguments converted during string formatting
+2023-05-20 08:43:15 Call stack:
+2023-05-20 08:43:15   File "<string>", line 1, in <module>
+2023-05-20 08:43:15   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:43:15     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:43:15     return self._bootstrap(parent_sentinel)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:43:15     self.run()
+2023-05-20 08:43:15   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:43:15     self._target(*self._args, **self._kwargs)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:43:15     target(sockets=sockets)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:43:15     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:43:15   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:43:15     return loop.run_until_complete(main)
+2023-05-20 08:43:15   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:43:15     self.run_forever()
+2023-05-20 08:43:15   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:43:15     self._run_once()
+2023-05-20 08:43:15   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:43:15     handle._run()
+2023-05-20 08:43:15   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:43:15     self._context.run(self._callback, *self._args)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:43:15     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:43:15     return await self.app(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:43:15     await super().__call__(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:43:15     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:43:15     await self.app(scope, receive, _send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:43:15     await self.app(scope, receive, sender)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:43:15     await self.app(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:43:15     await route.handle(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:43:15     await self.app(scope, receive, send)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:43:15     response = await func(request)
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:43:15     raw_response = await run_endpoint_function(
+2023-05-20 08:43:15   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:43:15     return await dependant.call(**values)
+2023-05-20 08:43:15   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:43:15     author = get_author(presentation.author_id)
+2023-05-20 08:43:15   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:43:15     return call(function, *args, **kwargs)
+2023-05-20 08:43:15   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:43:15     return func(*args, **kwargs)
+2023-05-20 08:43:15   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:43:15     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:43:15 Message: '>>> Error Connecting:'
+2023-05-20 08:43:15 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf395af280>: Failed to establish a new connection: [Errno 113] No route to host'))")),)
+2023-05-20 08:43:16 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:16 WARNING:root:
+2023-05-20 08:43:17 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:17 WARNING:root:
+2023-05-20 08:43:18 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:18 WARNING:root:
+2023-05-20 08:43:19 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:19 WARNING:root:
+2023-05-20 08:43:20 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:20 WARNING:root:
+2023-05-20 08:43:21 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:21 WARNING:root:
+2023-05-20 08:43:22 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:22 WARNING:root:
+2023-05-20 08:43:23 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:23 WARNING:root:
+2023-05-20 08:43:24 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:24 WARNING:root:
+2023-05-20 08:43:25 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:25 WARNING:root:
+2023-05-20 08:43:26 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:26 WARNING:root:
+2023-05-20 08:43:27 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 08:43:27 WARNING:root:
+2023-05-20 08:43:27 --- Logging error ---
+2023-05-20 08:43:27 Traceback (most recent call last):
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:43:27     conn = connection.create_connection(
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 08:43:27     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 08:43:27   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 08:43:27     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 08:43:27 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 Traceback (most recent call last):
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:43:27     httplib_response = self._make_request(
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:43:27     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:43:27     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:43:27     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:43:27     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:43:27     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:43:27     self.send(msg)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:43:27     self.connect()
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:43:27     conn = self._new_conn()
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:43:15 INFO:     172.18.0.1:38138 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:43:27 INFO:     172.18.0.1:38144 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:43:27     raise NewConnectionError(
+2023-05-20 08:43:27 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf394a07c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 Traceback (most recent call last):
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:43:27     resp = conn.urlopen(
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:43:27     retries = retries.increment(
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:43:27     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:43:27 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a07c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 Traceback (most recent call last):
+2023-05-20 08:43:27   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:43:27     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:43:27     return request("get", url, params=params, **kwargs)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:43:27     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:43:27     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:43:27     r = adapter.send(request, **kwargs)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:43:27     raise ConnectionError(e, request=request)
+2023-05-20 08:43:27 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a07c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:27 
+2023-05-20 08:43:27 Traceback (most recent call last):
+2023-05-20 08:43:27   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:43:27     msg = self.format(record)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:43:27     return fmt.format(record)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:43:27     record.message = record.getMessage()
+2023-05-20 08:43:27   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:43:27     msg = msg % self.args
+2023-05-20 08:43:27 TypeError: not all arguments converted during string formatting
+2023-05-20 08:43:27 Call stack:
+2023-05-20 08:43:27   File "<string>", line 1, in <module>
+2023-05-20 08:43:27   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:43:27     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:43:27     return self._bootstrap(parent_sentinel)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:43:27     self.run()
+2023-05-20 08:43:27   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:43:27     self._target(*self._args, **self._kwargs)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:43:27     target(sockets=sockets)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:43:27     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:43:27   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:43:27     return loop.run_until_complete(main)
+2023-05-20 08:43:27   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:43:27     self.run_forever()
+2023-05-20 08:43:27   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:43:27     self._run_once()
+2023-05-20 08:43:27   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:43:27     handle._run()
+2023-05-20 08:43:27   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:43:27     self._context.run(self._callback, *self._args)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:43:27     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:43:27     return await self.app(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:43:27     await super().__call__(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:43:27     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:43:27     await self.app(scope, receive, _send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:43:27     await self.app(scope, receive, sender)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:43:27     await self.app(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:43:27     await route.handle(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:43:27     await self.app(scope, receive, send)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:43:27     response = await func(request)
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:43:27     raw_response = await run_endpoint_function(
+2023-05-20 08:43:27   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:43:27     return await dependant.call(**values)
+2023-05-20 08:43:27   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:43:27     author = get_author(presentation.author_id)
+2023-05-20 08:43:27   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:43:27     return call(function, *args, **kwargs)
+2023-05-20 08:43:27   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:43:27     return func(*args, **kwargs)
+2023-05-20 08:43:27   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:43:27     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:43:27 Message: '>>> Error Connecting:'
+2023-05-20 08:43:27 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a07c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 08:43:28 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:28 WARNING:root:
+2023-05-20 08:43:29 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:29 WARNING:root:
+2023-05-20 08:43:30 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:30 WARNING:root:
+2023-05-20 08:43:31 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:31 WARNING:root:
+2023-05-20 08:43:32 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:32 WARNING:root:
+2023-05-20 08:43:33 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:33 WARNING:root:
+2023-05-20 08:43:34 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:34 WARNING:root:
+2023-05-20 08:43:35 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:35 WARNING:root:
+2023-05-20 08:43:36 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:36 WARNING:root:
+2023-05-20 08:43:37 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:37 WARNING:root:
+2023-05-20 08:43:38 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 08:43:38 WARNING:root:
+2023-05-20 08:43:38 --- Logging error ---
+2023-05-20 08:43:38 Traceback (most recent call last):
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:43:38     conn = connection.create_connection(
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 08:43:38     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 08:43:38   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 08:43:38     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 08:43:38 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 Traceback (most recent call last):
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:43:38     httplib_response = self._make_request(
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:43:38     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:43:38     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:43:38     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:43:38     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:43:38     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:43:38     self.send(msg)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:43:38     self.connect()
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:43:38     conn = self._new_conn()
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:43:38     raise NewConnectionError(
+2023-05-20 08:43:38 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf394a1870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 Traceback (most recent call last):
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:43:38     resp = conn.urlopen(
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:43:38     retries = retries.increment(
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:43:38     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:43:38 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a1870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 Traceback (most recent call last):
+2023-05-20 08:43:38   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:43:38     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:43:38     return request("get", url, params=params, **kwargs)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:43:38     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:43:38     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:43:38     r = adapter.send(request, **kwargs)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:43:38     raise ConnectionError(e, request=request)
+2023-05-20 08:43:38 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a1870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:38 
+2023-05-20 08:43:38 Traceback (most recent call last):
+2023-05-20 08:43:38   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:43:38     msg = self.format(record)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:43:38     return fmt.format(record)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:43:38     record.message = record.getMessage()
+2023-05-20 08:43:38   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:43:38     msg = msg % self.args
+2023-05-20 08:43:38 TypeError: not all arguments converted during string formatting
+2023-05-20 08:43:38 Call stack:
+2023-05-20 08:43:38   File "<string>", line 1, in <module>
+2023-05-20 08:43:38   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:43:38     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:43:38     return self._bootstrap(parent_sentinel)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:43:38     self.run()
+2023-05-20 08:43:38   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:43:38     self._target(*self._args, **self._kwargs)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:43:38     target(sockets=sockets)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:43:38     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:43:38   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:43:38     return loop.run_until_complete(main)
+2023-05-20 08:43:38   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:43:38     self.run_forever()
+2023-05-20 08:43:38   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:43:38     self._run_once()
+2023-05-20 08:43:38   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:43:38     handle._run()
+2023-05-20 08:43:38   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:43:38     self._context.run(self._callback, *self._args)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:43:38     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:43:38     return await self.app(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:43:38     await super().__call__(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:43:38     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:43:38     await self.app(scope, receive, _send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:43:38     await self.app(scope, receive, sender)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:43:38     await self.app(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:43:38     await route.handle(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:43:38     await self.app(scope, receive, send)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:43:38     response = await func(request)
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:43:38     raw_response = await run_endpoint_function(
+2023-05-20 08:43:38   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:43:38     return await dependant.call(**values)
+2023-05-20 08:43:38   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:43:38     author = get_author(presentation.author_id)
+2023-05-20 08:43:38   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:43:38     return call(function, *args, **kwargs)
+2023-05-20 08:43:38   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:43:38     return func(*args, **kwargs)
+2023-05-20 08:43:38   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:43:38     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:43:38 Message: '>>> Error Connecting:'
+2023-05-20 08:43:38 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a1870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 08:43:39 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 08:43:39 WARNING:root:
+2023-05-20 08:43:40 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 08:43:40 WARNING:root:
+2023-05-20 08:43:41 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 08:43:41 WARNING:root:
+2023-05-20 08:43:42 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 08:43:42 WARNING:root:
+2023-05-20 08:43:42 --- Logging error ---
+2023-05-20 08:43:42 Traceback (most recent call last):
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:43:42     conn = connection.create_connection(
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 08:43:42     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 08:43:42   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 08:43:42     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 08:43:38 INFO:     172.18.0.1:38148 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:43:42 socket.gaierror: [Errno -2] Name or service not known
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 Traceback (most recent call last):
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:43:42     httplib_response = self._make_request(
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:43:42     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:43:42     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:43:42     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:43:42     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:43:42     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:43:42     self.send(msg)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:43:42     self.connect()
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:43:42     conn = self._new_conn()
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:43:42     raise NewConnectionError(
+2023-05-20 08:43:42 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf394a2740>: Failed to establish a new connection: [Errno -2] Name or service not known
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 Traceback (most recent call last):
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:43:42     resp = conn.urlopen(
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:43:42     retries = retries.increment(
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:43:42     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:43:42 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a2740>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 Traceback (most recent call last):
+2023-05-20 08:43:42   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:43:42     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:43:42     return request("get", url, params=params, **kwargs)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:43:42     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:43:42     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:43:42     r = adapter.send(request, **kwargs)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:43:42     raise ConnectionError(e, request=request)
+2023-05-20 08:43:42 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a2740>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:42 
+2023-05-20 08:43:42 Traceback (most recent call last):
+2023-05-20 08:43:42   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:43:42     msg = self.format(record)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:43:42     return fmt.format(record)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:43:42     record.message = record.getMessage()
+2023-05-20 08:43:42   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:43:42     msg = msg % self.args
+2023-05-20 08:43:42 TypeError: not all arguments converted during string formatting
+2023-05-20 08:43:42 Call stack:
+2023-05-20 08:43:42   File "<string>", line 1, in <module>
+2023-05-20 08:43:42   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:43:42     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:43:42     return self._bootstrap(parent_sentinel)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:43:42     self.run()
+2023-05-20 08:43:42   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:43:42     self._target(*self._args, **self._kwargs)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:43:42     target(sockets=sockets)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:43:42     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:43:42   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:43:42     return loop.run_until_complete(main)
+2023-05-20 08:43:42   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:43:42     self.run_forever()
+2023-05-20 08:43:42   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:43:42     self._run_once()
+2023-05-20 08:43:42   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:43:42     handle._run()
+2023-05-20 08:43:42   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:43:42     self._context.run(self._callback, *self._args)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:43:42     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:43:42     return await self.app(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:43:42 INFO:     172.18.0.1:38152 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:43:42     await super().__call__(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:43:42     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:43:42     await self.app(scope, receive, _send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:43:42     await self.app(scope, receive, sender)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:43:42     await self.app(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:43:42     await route.handle(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:43:42     await self.app(scope, receive, send)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:43:42     response = await func(request)
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:43:42     raw_response = await run_endpoint_function(
+2023-05-20 08:43:42   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:43:42     return await dependant.call(**values)
+2023-05-20 08:43:42   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:43:42     author = get_author(presentation.author_id)
+2023-05-20 08:43:42   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:43:42     return call(function, *args, **kwargs)
+2023-05-20 08:43:42   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:43:42     return func(*args, **kwargs)
+2023-05-20 08:43:42   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:43:42     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:43:42 Message: '>>> Error Connecting:'
+2023-05-20 08:43:42 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a2740>: Failed to establish a new connection: [Errno -2] Name or service not known'))")),)
+2023-05-20 08:43:43 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:43 WARNING:root:
+2023-05-20 08:43:44 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:44 WARNING:root:
+2023-05-20 08:43:45 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:45 WARNING:root:
+2023-05-20 08:43:46 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:46 WARNING:root:
+2023-05-20 08:43:47 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:47 WARNING:root:
+2023-05-20 08:43:48 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:48 WARNING:root:
+2023-05-20 08:43:49 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:49 WARNING:root:
+2023-05-20 08:43:50 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:50 WARNING:root:
+2023-05-20 08:43:51 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:51 WARNING:root:
+2023-05-20 08:43:52 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 08:43:52 WARNING:root:
+2023-05-20 08:43:52 --- Logging error ---
+2023-05-20 08:43:52 Traceback (most recent call last):
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:43:52     conn = connection.create_connection(
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 08:43:52     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 08:43:52   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 08:43:52     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 08:43:52 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 Traceback (most recent call last):
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:43:52     httplib_response = self._make_request(
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:43:52     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:43:52     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:43:52     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:43:52     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:43:52     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:43:52     self.send(msg)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:43:52     self.connect()
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:43:52     conn = self._new_conn()
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:43:52     raise NewConnectionError(
+2023-05-20 08:43:52 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf394a16c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 Traceback (most recent call last):
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:43:52     resp = conn.urlopen(
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:43:52     retries = retries.increment(
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:43:52     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:43:52 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a16c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 Traceback (most recent call last):
+2023-05-20 08:43:52   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:43:52     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:43:52     return request("get", url, params=params, **kwargs)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:43:52     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:43:52     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:43:52     r = adapter.send(request, **kwargs)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:43:52     raise ConnectionError(e, request=request)
+2023-05-20 08:43:52 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a16c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 During handling of the above exception, another exception occurred:
+2023-05-20 08:43:52 
+2023-05-20 08:43:52 Traceback (most recent call last):
+2023-05-20 08:43:52   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:43:52     msg = self.format(record)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:43:52     return fmt.format(record)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:43:52     record.message = record.getMessage()
+2023-05-20 08:43:52   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:43:52     msg = msg % self.args
+2023-05-20 08:43:52 TypeError: not all arguments converted during string formatting
+2023-05-20 08:43:52 Call stack:
+2023-05-20 08:43:52   File "<string>", line 1, in <module>
+2023-05-20 08:43:52   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:43:52     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:43:52     return self._bootstrap(parent_sentinel)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:43:52     self.run()
+2023-05-20 08:43:52   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:43:52     self._target(*self._args, **self._kwargs)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:43:52     target(sockets=sockets)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:43:52     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:43:52   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:43:52     return loop.run_until_complete(main)
+2023-05-20 08:43:52   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:43:52     self.run_forever()
+2023-05-20 08:43:52   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:43:52     self._run_once()
+2023-05-20 08:43:52   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:43:52     handle._run()
+2023-05-20 08:43:52   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:43:52     self._context.run(self._callback, *self._args)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:43:52     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:43:52     return await self.app(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:43:52     await super().__call__(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:43:52     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:43:52     await self.app(scope, receive, _send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:43:52     await self.app(scope, receive, sender)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:43:52     await self.app(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:43:52     await route.handle(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:43:52     await self.app(scope, receive, send)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:43:52     response = await func(request)
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:43:52     raw_response = await run_endpoint_function(
+2023-05-20 08:43:52   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:43:52     return await dependant.call(**values)
+2023-05-20 08:43:52   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:43:52     author = get_author(presentation.author_id)
+2023-05-20 08:43:52   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:43:52     return call(function, *args, **kwargs)
+2023-05-20 08:43:52   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:43:52     return func(*args, **kwargs)
+2023-05-20 08:43:52   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:43:52     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:43:52 Message: '>>> Error Connecting:'
+2023-05-20 08:43:52 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf394a16c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 08:43:52 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:53 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:53 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:53 WARNING:root:
+2023-05-20 08:43:53 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:52 INFO:     172.18.0.1:38156 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:43:52 INFO:     172.18.0.1:38160 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:53 INFO:     172.18.0.1:38164 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:53 INFO:     172.18.0.1:38168 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:54 INFO:     172.18.0.1:38172 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:54 INFO:     172.18.0.1:38176 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:54 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:54 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:54 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:54 WARNING:root:
+2023-05-20 08:43:54 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:54 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:55 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:55 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:55 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:55 WARNING:root:
+2023-05-20 08:43:55 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:55 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:56 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:56 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:56 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:56 WARNING:root:
+2023-05-20 08:43:56 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:56 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:54 INFO:     172.18.0.1:38180 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:54 INFO:     172.18.0.1:38184 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:55 INFO:     172.18.0.1:38188 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:55 INFO:     172.18.0.1:38192 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:55 INFO:     172.18.0.1:38196 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:55 INFO:     172.18.0.1:38200 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:56 INFO:     172.18.0.1:38204 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:56 INFO:     172.18.0.1:38208 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:56 INFO:     172.18.0.1:38212 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:56 INFO:     172.18.0.1:38216 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:57 INFO:     172.18.0.1:38220 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:57 INFO:     172.18.0.1:38224 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:43:57 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:57 CRITICAL:root:Circuit OPEN
+2023-05-20 08:43:57 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:57 WARNING:root:
+2023-05-20 08:43:58 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:58 WARNING:root:
+2023-05-20 08:43:59 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:43:59 WARNING:root:
+2023-05-20 08:43:59 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:00 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:00 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:44:00 WARNING:root:
+2023-05-20 08:44:01 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:01 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 08:44:01 WARNING:root:
+2023-05-20 08:44:01 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:02 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:02 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:02 WARNING:root:
+2023-05-20 08:44:03 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:03 WARNING:root:
+2023-05-20 08:44:04 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:04 WARNING:root:
+2023-05-20 08:44:05 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:05 WARNING:root:
+2023-05-20 08:44:06 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:06 WARNING:root:
+2023-05-20 08:44:07 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:07 WARNING:root:
+2023-05-20 08:44:08 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:08 WARNING:root:
+2023-05-20 08:44:09 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:09 WARNING:root:
+2023-05-20 08:44:10 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:10 WARNING:root:
+2023-05-20 08:44:11 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:11 WARNING:root:
+2023-05-20 08:43:59 INFO:     172.18.0.1:38228 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:00 INFO:     172.18.0.1:38232 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:01 INFO:     172.18.0.1:38236 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:01 INFO:     172.18.0.1:38240 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:02 INFO:     172.18.0.1:38244 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:12 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 08:44:12 WARNING:root:
+2023-05-20 08:44:13 --- Logging error ---
+2023-05-20 08:44:13 Traceback (most recent call last):
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 08:44:13     conn = connection.create_connection(
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 08:44:13     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 08:44:13   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 08:44:13     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 08:44:13 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 During handling of the above exception, another exception occurred:
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 Traceback (most recent call last):
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 08:44:13     httplib_response = self._make_request(
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 08:44:13     conn.request(method, url, **httplib_request_kw)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 08:44:13     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 08:44:13     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 08:44:13     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 08:44:13     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 08:44:13     self.send(msg)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 08:44:13     self.connect()
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 08:44:13     conn = self._new_conn()
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 08:44:13     raise NewConnectionError(
+2023-05-20 08:44:13 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fdf38b84040>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 During handling of the above exception, another exception occurred:
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 Traceback (most recent call last):
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 08:44:13     resp = conn.urlopen(
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 08:44:13     retries = retries.increment(
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 08:44:13     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 08:44:13 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf38b84040>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 During handling of the above exception, another exception occurred:
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 Traceback (most recent call last):
+2023-05-20 08:44:13   File "/./service_main.py", line 74, in get_author
+2023-05-20 08:44:13     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 08:44:13     return request("get", url, params=params, **kwargs)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 08:44:13     return session.request(method=method, url=url, **kwargs)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 08:44:13     resp = self.send(prep, **send_kwargs)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 08:44:13     r = adapter.send(request, **kwargs)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 08:44:13     raise ConnectionError(e, request=request)
+2023-05-20 08:44:13 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf38b84040>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 During handling of the above exception, another exception occurred:
+2023-05-20 08:44:13 
+2023-05-20 08:44:13 Traceback (most recent call last):
+2023-05-20 08:44:13   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 08:44:13     msg = self.format(record)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 08:44:13     return fmt.format(record)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 08:44:13     record.message = record.getMessage()
+2023-05-20 08:44:13   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 08:44:13     msg = msg % self.args
+2023-05-20 08:44:13 TypeError: not all arguments converted during string formatting
+2023-05-20 08:44:13 Call stack:
+2023-05-20 08:44:13   File "<string>", line 1, in <module>
+2023-05-20 08:44:13   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 08:44:13     exitcode = _main(fd, parent_sentinel)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 08:44:13     return self._bootstrap(parent_sentinel)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 08:44:13     self.run()
+2023-05-20 08:44:13   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 08:44:13     self._target(*self._args, **self._kwargs)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 08:44:13     target(sockets=sockets)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 08:44:13 INFO:     172.18.0.1:38248 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 08:44:15 INFO:     172.18.0.1:38252 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:17 INFO:     172.18.0.1:38256 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:18 INFO:     172.18.0.1:38260 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:19 INFO:     172.18.0.1:38264 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:19 INFO:     172.18.0.1:38268 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:19 INFO:     172.18.0.1:38272 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:20 INFO:     172.18.0.1:38276 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:20 INFO:     172.18.0.1:38280 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:13     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 08:44:13   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 08:44:13     return loop.run_until_complete(main)
+2023-05-20 08:44:13   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 08:44:13     self.run_forever()
+2023-05-20 08:44:13   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 08:44:13     self._run_once()
+2023-05-20 08:44:13   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 08:44:13     handle._run()
+2023-05-20 08:44:13   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 08:44:13     self._context.run(self._callback, *self._args)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 08:44:13     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 08:44:13     return await self.app(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 08:44:13     await super().__call__(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 08:44:13     await self.middleware_stack(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 08:44:13     await self.app(scope, receive, _send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 08:44:13     await self.app(scope, receive, sender)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 08:44:13     await self.app(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 08:44:13     await route.handle(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 08:44:13     await self.app(scope, receive, send)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 08:44:13     response = await func(request)
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 08:44:13     raw_response = await run_endpoint_function(
+2023-05-20 08:44:13   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 08:44:13     return await dependant.call(**values)
+2023-05-20 08:44:13   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 08:44:13     author = get_author(presentation.author_id)
+2023-05-20 08:44:13   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 08:44:13     return call(function, *args, **kwargs)
+2023-05-20 08:44:13   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 08:44:13     return func(*args, **kwargs)
+2023-05-20 08:44:13   File "/./service_main.py", line 76, in get_author
+2023-05-20 08:44:13     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 08:44:13 Message: '>>> Error Connecting:'
+2023-05-20 08:44:13 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdf38b84040>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 08:44:13 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:13 WARNING:root:
+2023-05-20 08:44:14 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:14 WARNING:root:
+2023-05-20 08:44:15 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:15 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:15 WARNING:root:
+2023-05-20 08:44:16 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:16 WARNING:root:
+2023-05-20 08:44:17 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:17 WARNING:root:
+2023-05-20 08:44:17 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:18 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:18 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:18 WARNING:root:
+2023-05-20 08:44:19 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:19 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:19 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:19 WARNING:root:
+2023-05-20 08:44:19 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:20 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:20 CRITICAL:root:Circuit OPEN
+2023-05-20 08:44:20 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:20 WARNING:root:
+2023-05-20 08:44:21 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:21 WARNING:root:
+2023-05-20 08:44:22 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 08:44:22 WARNING:root:
+2023-05-20 08:44:23 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:23 WARNING:root:
+2023-05-20 08:44:24 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:24 WARNING:root:
+2023-05-20 08:44:25 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:25 WARNING:root:
+2023-05-20 08:44:26 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:26 WARNING:root:
+2023-05-20 08:44:27 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:27 WARNING:root:
+2023-05-20 08:44:28 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:28 WARNING:root:
+2023-05-20 08:44:29 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 08:44:29 WARNING:root:
+2023-05-20 08:44:30 Moore
+2023-05-20 08:44:30 INFO:     172.18.0.1:38284 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:30 WARNING:root:
+2023-05-20 08:44:31 Moore
+2023-05-20 08:44:31 INFO:     172.18.0.1:38290 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:31 WARNING:root:
+2023-05-20 08:44:32 Moore
+2023-05-20 08:44:32 INFO:     172.18.0.1:38296 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:32 WARNING:root:
+2023-05-20 08:44:32 Moore
+2023-05-20 08:44:32 INFO:     172.18.0.1:38302 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:33 Moore
+2023-05-20 08:44:33 INFO:     172.18.0.1:38308 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 08:44:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:33 WARNING:root:
+2023-05-20 08:44:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:34 WARNING:root:
+2023-05-20 08:44:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:35 WARNING:root:
+2023-05-20 08:44:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:37 WARNING:root:
+2023-05-20 08:44:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:38 WARNING:root:
+2023-05-20 08:44:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:39 WARNING:root:
+2023-05-20 08:44:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:40 WARNING:root:
+2023-05-20 08:44:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 08:44:41 WARNING:root:
