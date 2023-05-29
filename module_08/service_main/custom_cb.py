@@ -39,12 +39,12 @@ class CircuitBreaker:
                 if self.failures >= self.max_failures:
                     self.state = 'OPEN'
                     raise ConnectionError('Service is unavailable')
+                elif self.failures < self.max_failures and retries == self.max_retries:
+                    raise ConnectionError('Service is unavailable')
                 else:
                     retries += 1
                     logging.warning(f'Retrying request ({retries}/{self.max_retries})')
-
-        self.state = 'OPEN'
-        raise ConnectionError('Service is unavailable')
+                
 
     def reset(self):
         self.failures = 0
